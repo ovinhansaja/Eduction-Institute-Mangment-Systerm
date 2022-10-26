@@ -1,0 +1,278 @@
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe.config
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.pdb
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csprojAssemblyReference.cache
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Form1.resources
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Properties.Resources.resources
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.GenerateResource.cache
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CoreCompileInputs.cache
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CopyComplete
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.exe
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.pdb
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Attendance.resources
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Finance.resources
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.SMS.resources
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.resources
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Student.resources
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Teacher.resources
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.yo-NG.resources
+C:\Users\DIAS-PC\source\repos\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe.config
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.pdb
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\FontAwesome.Sharp.dll
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csprojAssemblyReference.cache
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Attendance.resources
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Finance.resources
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Form1.resources
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Properties.Resources.resources
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.SMS.resources
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.resources
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Student.resources
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Teacher.resources
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.yo-NG.resources
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.GenerateResource.cache
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CoreCompileInputs.cache
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CopyComplete
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.exe
+D:\GUI CW2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.pdb
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe.config
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.pdb
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\FontAwesome.Sharp.dll
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csprojAssemblyReference.cache
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Attendance.resources
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Finance.resources
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Properties.Resources.resources
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.SMS.resources
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.resources
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.student.resources
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Teacher.resources
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.yo-NG.resources
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.GenerateResource.cache
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CoreCompileInputs.cache
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CopyComplete
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.exe
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.pdb
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Home.resources
+E:\CW2 GUI\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Menu.resources
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe.config
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.pdb
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\FontAwesome.Sharp.dll
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csprojAssemblyReference.cache
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Attendance.resources
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Finance.resources
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Menu.resources
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Home.resources
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Properties.Resources.resources
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.SMS.resources
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.resources
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.student.resources
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Teacher.resources
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.yo-NG.resources
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.GenerateResource.cache
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CoreCompileInputs.cache
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CopyComplete
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.exe
+D:\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.pdb
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe.config
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.pdb
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\FontAwesome.Sharp.dll
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csprojAssemblyReference.cache
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Attendance.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Finance.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Menu.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Home.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Properties.Resources.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.student.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_Add.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Teacher.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.yo-NG.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.GenerateResource.cache
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CoreCompileInputs.cache
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CopyComplete
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.exe
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.pdb
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_Update.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_Delete.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_View.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_Add.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_Delete.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_Edit.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_View.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_Add.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_Delete.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_Edit.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_View.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Fin_Add_Payment.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Fin_View_Payment.resources
+D:\GUI Coures Work 2\Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Login_Edit.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe.config
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.pdb
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\FontAwesome.Sharp.dll
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csprojAssemblyReference.cache
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Attendance.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Finance.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Fin_Add_Payment.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Fin_View_Payment.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Menu.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Home.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Login_Edit.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Properties.Resources.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_Add.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_Edit.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_View.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.student.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_Add.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_Update.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_View.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Teacher.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_Add.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_Edit.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_View.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.yo-NG.resources
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.GenerateResource.cache
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CoreCompileInputs.cache
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CopyComplete
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.exe
+D:\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.pdb
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe.config
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.pdb
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Attendance.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Finance.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Fin_Add_Payment.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Fin_View_Payment.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Menu.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Home.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Login_Edit.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Properties.Resources.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_Add.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_Edit.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_View.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.student.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_Add.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_Update.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_View.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Teacher.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_Add.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_Edit.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_View.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.yo-NG.resources
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CopyComplete
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.exe
+C:\Users\ACER\Desktop\GUI Coures Work 2 (3)\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.pdb
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csprojAssemblyReference.cache
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Attendance.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Finance.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Fin_Add_Payment.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Fin_View_Payment.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Menu.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Home.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Login_Edit.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_Add.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_Edit.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_View.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.student.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_Add.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_Update.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_View.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Teacher.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_Add.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_Edit.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_View.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.yo-NG.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.GenerateResource.cache
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.exe
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\GUI Coures Work 2\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.pdb
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe.config
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.pdb
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\FontAwesome.Sharp.dll
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csprojAssemblyReference.cache
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Attendance.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Finance.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Fin_Add_Payment.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Fin_View_Payment.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Menu.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Home.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Login_Edit.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Properties.Resources.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_Add.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_Edit.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_View.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.student.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_Add.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_Update.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_View.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Teacher.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_Add.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_Edit.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_View.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.yo-NG.resources
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.GenerateResource.cache
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CoreCompileInputs.cache
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CopyComplete
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.exe
+D:\CW New\GUI Coures Work 2\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.pdb
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe.config
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.exe
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\Eduction Institute Mangment Systerm.pdb
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\bin\Debug\FontAwesome.Sharp.dll
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csprojAssemblyReference.cache
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Attendance.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Finance.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Fin_Add_Payment.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Fin_View_Payment.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Menu.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Home.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Login_Edit.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Properties.Resources.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_Add.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_Edit.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.STA_View.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.student.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_Add.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_Update.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.ST_View.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Teacher.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_Add.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_Edit.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.TE_View.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction_Institute_Mangment_Systerm.Staff.yo-NG.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.GenerateResource.cache
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CoreCompileInputs.cache
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\yo-NG\Eduction Institute Mangment Systerm.resources.dll
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.csproj.CopyComplete
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.exe
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\01 Eduction Institute Mangment Systerm\Eduction Institute Mangment Systerm\obj\Debug\Eduction Institute Mangment Systerm.pdb
