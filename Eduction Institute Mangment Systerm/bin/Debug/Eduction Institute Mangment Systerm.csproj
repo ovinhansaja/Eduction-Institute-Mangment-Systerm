@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4A4DFD77-993F-465A-B371-C327F348C248}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Eduction_Institute_Mangment_Systerm</RootNamespace>
+    <AssemblyName>Eduction Institute Mangment Systerm</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.15.3\lib\net45\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance.Designer.cs">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database.cs" />
+    <Compile Include="Finance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finance.Designer.cs">
+      <DependentUpon>Finance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fin_Add_Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fin_Add_Payment.Designer.cs">
+      <DependentUpon>Fin_Add_Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fin_View_Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fin_View_Payment.Designer.cs">
+      <DependentUpon>Fin_View_Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Edit.Designer.cs">
+      <DependentUpon>Login_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff.Designer.cs">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STA_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STA_Add.Designer.cs">
+      <DependentUpon>STA_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STA_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STA_Edit.Designer.cs">
+      <DependentUpon>STA_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STA_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STA_View.Designer.cs">
+      <DependentUpon>STA_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student.Designer.cs">
+      <DependentUpon>Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ST_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ST_Add.Designer.cs">
+      <DependentUpon>ST_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ST_Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ST_Update.Designer.cs">
+      <DependentUpon>ST_Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ST_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ST_View.Designer.cs">
+      <DependentUpon>ST_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher.Designer.cs">
+      <DependentUpon>Teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TE_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TE_Add.Designer.cs">
+      <DependentUpon>TE_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TE_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TE_Edit.Designer.cs">
+      <DependentUpon>TE_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TE_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TE_View.Designer.cs">
+      <DependentUpon>TE_View.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Attendance.resx">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finance.resx">
+      <DependentUpon>Finance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fin_Add_Payment.resx">
+      <DependentUpon>Fin_Add_Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fin_View_Payment.resx">
+      <DependentUpon>Fin_View_Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Edit.resx">
+      <DependentUpon>Login_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Staff.resx">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff.yo-NG.resx">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STA_Add.resx">
+      <DependentUpon>STA_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STA_Edit.resx">
+      <DependentUpon>STA_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STA_View.resx">
+      <DependentUpon>STA_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student.resx">
+      <DependentUpon>Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ST_Add.resx">
+      <DependentUpon>ST_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ST_Update.resx">
+      <DependentUpon>ST_Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ST_View.resx">
+      <DependentUpon>ST_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher.resx">
+      <DependentUpon>Teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TE_Add.resx">
+      <DependentUpon>TE_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TE_Edit.resx">
+      <DependentUpon>TE_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TE_View.resx">
+      <DependentUpon>TE_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dlf.pt-education-logo-png-5557640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-illustration-vector-graphics-distance-education-co-5c363ff5164705.3766873115470591890913.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngkey.com-social-media-png-205930.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngkey.com-social-media-png-2059301.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
